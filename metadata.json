@@ -1,0 +1,8 @@
+{
+  "name": "Split Roulette",
+  "description": "A social bill-splitting game where fate decides who pays what.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
